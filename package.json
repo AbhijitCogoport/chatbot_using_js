@@ -1,0 +1,17 @@
+{
+    "name": "deep",
+    "version": "1.0.0",
+    "description": "This is simple conversation bot",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "dev": "node ."
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "@nlpjs/basic": "^4.2.0",
+      "@nlpjs/directline-connector": "^4.1.4",
+      "@nlpjs/express-api-server": "^4.2.0"
+    }
+  }
